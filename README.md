@@ -1,28 +1,64 @@
-# Create T3 App
+# Frontend Mentor - 3-column preview card component solution
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## What's next? How do I make an app with this?
+## Table of contents
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
+- [Frontend Mentor - 3-column preview card component solution](#frontend-mentor---3-column-preview-card-component-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Screenshots](#screenshots)
+      - [Desktop](#desktop)
+      - [Mobile](#mobile)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+  - [Author](#author)
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+## Overview
 
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
+### The challenge
 
-## Learn More
+Users should be able to:
 
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
+- View the optimal layout depending on their device's screen size
+- See hover states for interactive elements
 
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
+### Screenshots
 
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
+<details>
+  <summary>Click here</summary>
 
-## How do I deploy this?
+#### Desktop
 
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+![](/public/screenshots/desktop.png)
+
+#### Mobile
+
+![](/public/screenshots/mobile.png)
+
+</details>
+
+### Links
+
+- Solution URL: [GitHub Repo](https://github.com/lazzzaroni/3-column-preview-card-component)
+- Live Site URL: [GitHub Pages](https://lazzzaroni.github.io/3-column-preview-card-component)
+
+## My process
+
+### Built with
+
+- [React](https://reactjs.org/) - JS library
+- [Next.js](https://nextjs.org/) - React framework
+- [Tailwind CSS](https://tailwindcss.com/) - Styles
+
+### What I learned
+
+DRY - card components are essentially the same, so I created array with data and map it into a reusable component.
+
+## Author
+
+- Website - [mpaliakou.dev](https://mpaliakou.dev)
+- Frontend Mentor - [@lazzzaroni](https://www.frontendmentor.io/profile/lazzzaroni)
