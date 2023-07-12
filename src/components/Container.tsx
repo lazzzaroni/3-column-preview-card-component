@@ -51,7 +51,7 @@ export default function Container() {
         >
           <Image
             src={card.icon}
-            alt={`${card.header} Icon`}
+            alt=""
             width={0}
             height={0}
             className={cn("my-1 h-10 w-16")}
