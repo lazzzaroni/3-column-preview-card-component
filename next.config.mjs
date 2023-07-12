@@ -6,7 +6,7 @@ await import("./src/env.mjs");
 
 /** @type {import("next").NextConfig} */
 const config = {
-  // basePath: "/3-column-preview-card-component",
+  basePath: "/3-column-preview-card-component",
   reactStrictMode: true,
 
   /**
