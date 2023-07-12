@@ -6,10 +6,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Frontend Mentor | Newsletter sign-up component</title>
+        <title>Frontend Mentor | 3-column preview card component</title>
         <meta
           name="description"
-          content="Frontend Mentor | Newsletter sign-up component"
+          content="Frontend Mentor | 3-column preview card component"
         />
         <link
           rel="shortcut icon"
